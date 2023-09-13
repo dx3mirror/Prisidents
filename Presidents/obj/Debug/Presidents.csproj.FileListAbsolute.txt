@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Presidents\Presidents\bin\Debug\Presidents.exe.config
+C:\Users\HP\source\repos\Presidents\Presidents\bin\Debug\Presidents.exe
+C:\Users\HP\source\repos\Presidents\Presidents\bin\Debug\Presidents.pdb
+C:\Users\HP\source\repos\Presidents\Presidents\obj\Debug\Presidents.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Presidents\Presidents\obj\Debug\Presidents.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Presidents\Presidents\obj\Debug\Presidents.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Presidents\Presidents\obj\Debug\Presidents.exe
+C:\Users\HP\source\repos\Presidents\Presidents\obj\Debug\Presidents.pdb
